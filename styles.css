@@ -223,7 +223,7 @@ p, h2 {
 .header {
     background: linear-gradient(135deg, #ec3750 0%, #ff6b6b 50%, #ff8e8e 100%);
     width: 100%;
-    padding: 3rem 2rem;
+    padding: 3rem 0;
     margin-bottom: 2rem;
     text-align: center;
     color: white;
@@ -270,7 +270,7 @@ h2 {
     box-shadow: 0 4px 16px rgba(0,0,0,0.08);
     padding: 2rem;
     margin: 2rem auto;
-    max-width: 800px;
+    max-width: 82vw;
     text-align: center;
 }
 
